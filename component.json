@@ -1,0 +1,19 @@
+{
+  "name": "media",
+  "repo": "twitter-bootstrap/media",
+  "description": "Abstract object styles for building various types of components (like blog comments, Tweets, etc) that feature a left- or right-aligned image alongside textual content.",
+  "version": "0.0.1",
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "media"
+  ],
+  "dependencies": {
+    "twitter-bootstrap/core": "*"
+  },
+  "development": {},
+  "license": "Apache",
+  "styles": [
+    "media.css"
+  ]
+}
